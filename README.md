@@ -7,7 +7,7 @@ GGGenome (http://gggenome.dbcls.jp/en/) is a ultrafast DNA search service hosted
 ## Installation
 
 ```
-Pkg.clone("git://example.com/path/to/Package.jl.git")
+Pkg.clone("git://github.com:yuifu/GggenomeSearch.jl.git")
 ```
 
 
