@@ -24,7 +24,7 @@ showGggenomeTopHit(sequence, database_name)
 ### Examples
 
 ```
-julia> include("refer_gggenome.jl")
+julia> using GggenomeSearch
 
 julia> seq = "GTGCGGTAACGCGACCGATCCCGGAGAAGCCGGCGGGA"
 
